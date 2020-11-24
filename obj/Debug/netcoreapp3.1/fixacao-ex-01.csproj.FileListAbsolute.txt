@@ -1,0 +1,13 @@
+C:\Users\vinixiii\Desktop\Nova pasta\fixacao-ex-01\bin\Debug\netcoreapp3.1\fixacao-ex-01.exe
+C:\Users\vinixiii\Desktop\Nova pasta\fixacao-ex-01\bin\Debug\netcoreapp3.1\fixacao-ex-01.deps.json
+C:\Users\vinixiii\Desktop\Nova pasta\fixacao-ex-01\bin\Debug\netcoreapp3.1\fixacao-ex-01.runtimeconfig.json
+C:\Users\vinixiii\Desktop\Nova pasta\fixacao-ex-01\bin\Debug\netcoreapp3.1\fixacao-ex-01.runtimeconfig.dev.json
+C:\Users\vinixiii\Desktop\Nova pasta\fixacao-ex-01\bin\Debug\netcoreapp3.1\fixacao-ex-01.dll
+C:\Users\vinixiii\Desktop\Nova pasta\fixacao-ex-01\bin\Debug\netcoreapp3.1\fixacao-ex-01.pdb
+C:\Users\vinixiii\Desktop\Nova pasta\fixacao-ex-01\obj\Debug\netcoreapp3.1\fixacao-ex-01.csprojAssemblyReference.cache
+C:\Users\vinixiii\Desktop\Nova pasta\fixacao-ex-01\obj\Debug\netcoreapp3.1\fixacao-ex-01.AssemblyInfoInputs.cache
+C:\Users\vinixiii\Desktop\Nova pasta\fixacao-ex-01\obj\Debug\netcoreapp3.1\fixacao-ex-01.AssemblyInfo.cs
+C:\Users\vinixiii\Desktop\Nova pasta\fixacao-ex-01\obj\Debug\netcoreapp3.1\fixacao-ex-01.csproj.CoreCompileInputs.cache
+C:\Users\vinixiii\Desktop\Nova pasta\fixacao-ex-01\obj\Debug\netcoreapp3.1\fixacao-ex-01.dll
+C:\Users\vinixiii\Desktop\Nova pasta\fixacao-ex-01\obj\Debug\netcoreapp3.1\fixacao-ex-01.pdb
+C:\Users\vinixiii\Desktop\Nova pasta\fixacao-ex-01\obj\Debug\netcoreapp3.1\fixacao-ex-01.genruntimeconfig.cache
